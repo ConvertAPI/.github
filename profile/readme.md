@@ -1,7 +1,7 @@
 <h1>
 <p align="center">
   <a href="https://www.convertapi.com">
-    <img width="1280" height="720" alt="Banner REST API" src="https://github.com/user-attachments/assets/a861c896-4918-40df-af1e-430238ccfa14" />
+    <img width="1280" height="720" alt="Banner SDKs" src="https://github.com/user-attachments/assets/e621f15e-862a-4c49-85fe-c90fec5b8c9b" />
   </a>
   <br>ConvertAPI
 </h1>
